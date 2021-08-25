@@ -1,0 +1,5 @@
+[push]
+	recurseSubmodules = on-demand
+[submodule]
+	recurse = true
+	
