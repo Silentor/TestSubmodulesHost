@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "com.flexy.utils": "https://bitbucket.daw.studio/scm/flexy/flexy.utils.git",
+    "com.flexy.ui": "https://bitbucket.daw.studio/scm/flexy/flexy.ui.git",
+	"com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.flexy.tween": "https://bitbucket.daw.studio/scm/flexy/flexy.tween.git?path=/Packages/Main",
     "com.unity.ide.rider": "2.0.7",
-	"com.flexy.utils2": "https://github.com/Silentor/TestSubmodule.git#main",
     "com.unity.render-pipelines.universal": "10.5.1",
     "com.unity.test-framework": "1.1.27",
     "com.unity.textmeshpro": "3.0.6",

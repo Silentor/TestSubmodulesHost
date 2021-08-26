@@ -1,31 +1,38 @@
 {
   "dependencies": {
-    "com.flexy.utils2": {
-      "version": "file:com.flexy.utils2",
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
       "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.collections": "0.9.0-preview.6"
-      }
+      "source": "git",
+      "dependencies": {},
+      "hash": "4f6166102d3c9bd4dcf9acdc48ead7a618cfe891"
     },
-    "com.unity.burst": {
-      "version": "1.3.0-preview.12",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.mathematics": "1.1.0"
-      },
-      "url": "https://packages.unity.com"
+    "com.flexy.tween": {
+      "version": "https://bitbucket.daw.studio/scm/flexy/flexy.tween.git?path=/Packages/Main",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4dc1ff7fff377200fcf29c304df4ebca055393dd"
     },
-    "com.unity.collections": {
-      "version": "0.9.0-preview.6",
-      "depth": 1,
-      "source": "registry",
+    "com.flexy.ui": {
+      "version": "https://bitbucket.daw.studio/scm/flexy/flexy.ui.git",
+      "depth": 0,
+      "source": "git",
       "dependencies": {
-        "com.unity.test-framework.performance": "2.0.8-preview",
-        "com.unity.burst": "1.3.0-preview.12"
+        "com.flexy.utils": "2.0.0",
+        "com.flexy.tween": "1.0.1",
+        "com.cysharp.unitask": "2.2.5"
       },
-      "url": "https://packages.unity.com"
+      "hash": "b397d6a0a45b7dc8bd937df9b4e86f8cd81d3229"
+    },
+    "com.flexy.utils": {
+      "version": "https://bitbucket.daw.studio/scm/flexy/flexy.utils.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
+      },
+      "hash": "92bff2ca75d94550a7d793bec51595e776957170"
     },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
@@ -51,8 +58,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.nuget.newtonsoft-json": {
-      "version": "2.0.0-preview",
-      "depth": 3,
+      "version": "2.0.0",
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -102,16 +109,6 @@
         "com.unity.ext.nunit": "1.0.6",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.test-framework.performance": {
-      "version": "2.0.8-preview",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.test-framework": "1.1.0",
-        "com.unity.nuget.newtonsoft-json": "2.0.0-preview"
       },
       "url": "https://packages.unity.com"
     },
