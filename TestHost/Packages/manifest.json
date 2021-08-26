@@ -4,6 +4,7 @@
     "com.flexy.ui": "https://bitbucket.daw.studio/scm/flexy/flexy.ui.git",
     "com.flexy.audio": "https://bitbucket.daw.studio/scm/flexy/flexy.audio.git",
     "com.flexy.config": "https://bitbucket.daw.studio/scm/flexy/flexy.config.git",
+    "com.flexy.assetbundles": "https://bitbucket.daw.studio/scm/flexy/flexy.assetbundles.git",
 	"com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.flexy.tween": "https://bitbucket.daw.studio/scm/flexy/flexy.tween.git?path=/Packages/Main",
     "com.unity.ide.rider": "2.0.7",

@@ -7,6 +7,18 @@
       "dependencies": {},
       "hash": "4f6166102d3c9bd4dcf9acdc48ead7a618cfe891"
     },
+    "com.flexy.assetbundles": {
+      "version": "https://bitbucket.daw.studio/scm/flexy/flexy.assetbundles.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.0",
+        "com.google.play.assetdelivery": "1.4.0",
+        "com.cysharp.unitask": "2.2.5",
+        "com.unity.scriptablebuildpipeline": "1.15.2"
+      },
+      "hash": "107bfb90be406e1b61b5bb0dbf2affb1daa35364"
+    },
     "com.flexy.audio": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.audio.git",
       "depth": 0,
@@ -51,6 +63,37 @@
         "com.unity.nuget.newtonsoft-json": "2.0.0"
       },
       "hash": "92bff2ca75d94550a7d793bec51595e776957170"
+    },
+    "com.google.android.appbundle": {
+      "version": "file:com.google.android.appbundle@1.4.0",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.google.play.assetdelivery": {
+      "version": "file:com.google.play.assetdelivery@1.4.0",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.google.play.common": "1.4.0",
+        "com.google.play.core": "1.4.0"
+      }
+    },
+    "com.google.play.common": {
+      "version": "file:com.google.play.common@1.4.0",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.google.android.appbundle": "1.4.0"
+      }
+    },
+    "com.google.play.core": {
+      "version": "file:com.google.play.core@1.4.0",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.google.android.appbundle": "1.4.0"
+      }
     },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
@@ -100,6 +143,13 @@
         "com.unity.render-pipelines.core": "10.5.1",
         "com.unity.shadergraph": "10.5.1"
       },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.scriptablebuildpipeline": {
+      "version": "1.15.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.searcher": {
