@@ -19,6 +19,17 @@
       },
       "hash": "107bfb90be406e1b61b5bb0dbf2affb1daa35364"
     },
+    "com.flexy.asyncapi": {
+      "version": "https://bitbucket.daw.studio/scm/flexy/flexy.asyncapi.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.flexy.utils": "2.0.0",
+        "com.flexy.config": "2.0.0",
+        "com.cysharp.unitask": "2.2.5"
+      },
+      "hash": "fcc8bcc86f9d79fe5b3dcc8eb536695091117d21"
+    },
     "com.flexy.audio": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.audio.git",
       "depth": 0,
