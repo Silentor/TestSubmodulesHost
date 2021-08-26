@@ -1,12 +1,13 @@
 {
   "dependencies": {
     "com.flexy.utils2": {
-      "version": "file:com.flexy.utils2",
+      "version": "https://github.com/Silentor/TestSubmodule.git#main",
       "depth": 0,
-      "source": "embedded",
+      "source": "git",
       "dependencies": {
         "com.unity.collections": "0.9.0-preview.6"
-      }
+      },
+      "hash": "05d2065b331b4a272a572afff02b547ce7360c44"
     },
     "com.unity.burst": {
       "version": "1.3.0-preview.12",
