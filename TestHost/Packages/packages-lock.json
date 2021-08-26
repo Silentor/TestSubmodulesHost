@@ -16,7 +16,14 @@
         "com.flexy.tween": "1.0.1",
         "com.cysharp.unitask": "2.2.5"
       },
-      "hash": "dc14f47d73aac2c4196d81928d1f9ae1639e5e0b"
+      "hash": "e5ee5a50529f6f145692219b3702c26fcd46e8ff"
+    },
+    "com.flexy.config": {
+      "version": "https://bitbucket.daw.studio/scm/flexy/flexy.config.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1b3d3c230473138547e44e7243a3aeabbb04518b"
     },
     "com.flexy.tween": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.tween.git?path=/Packages/Main",
