@@ -7,6 +7,17 @@
       "dependencies": {},
       "hash": "4f6166102d3c9bd4dcf9acdc48ead7a618cfe891"
     },
+    "com.flexy.audio": {
+      "version": "https://bitbucket.daw.studio/scm/flexy/flexy.audio.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.flexy.utils": "2.0.0",
+        "com.flexy.tween": "1.0.1",
+        "com.cysharp.unitask": "2.2.5"
+      },
+      "hash": "dc14f47d73aac2c4196d81928d1f9ae1639e5e0b"
+    },
     "com.flexy.tween": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.tween.git?path=/Packages/Main",
       "depth": 0,
