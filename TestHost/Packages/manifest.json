@@ -3,6 +3,7 @@
     "com.flexy.utils": "https://bitbucket.daw.studio/scm/flexy/flexy.utils.git",
     "com.flexy.ui": "https://bitbucket.daw.studio/scm/flexy/flexy.ui.git",
     "com.flexy.audio": "https://bitbucket.daw.studio/scm/flexy/flexy.audio.git",
+    "com.flexy.unity2asp": "https://bitbucket.daw.studio/scm/flexy/flexy.unity2asp.git",
     "com.flexy.config": "https://bitbucket.daw.studio/scm/flexy/flexy.config.git",
     "com.flexy.assetbundles": "https://bitbucket.daw.studio/scm/flexy/flexy.assetbundles.git",
 	"com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",

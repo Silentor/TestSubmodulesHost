@@ -55,6 +55,13 @@
       },
       "hash": "b397d6a0a45b7dc8bd937df9b4e86f8cd81d3229"
     },
+    "com.flexy.unity2asp": {
+      "version": "https://bitbucket.daw.studio/scm/flexy/flexy.unity2asp.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a4526108e7328042988ee8353e88f4bed3e8a2d4"
+    },
     "com.flexy.utils": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.utils.git",
       "depth": 0,
