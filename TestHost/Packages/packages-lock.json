@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "4f6166102d3c9bd4dcf9acdc48ead7a618cfe891"
+      "hash": "69be818a46ca876afc5cb370a0ceb00324b4437d"
     },
     "com.flexy.assetbundles": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.assetbundles.git",
@@ -17,36 +17,36 @@
         "com.cysharp.unitask": "2.2.5",
         "com.unity.scriptablebuildpipeline": "1.15.2"
       },
-      "hash": "107bfb90be406e1b61b5bb0dbf2affb1daa35364"
+      "hash": "2cff8edda1a4209eb788b65656cc8d47434a0033"
     },
     "com.flexy.asyncapi": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.asyncapi.git",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.flexy.utils": "2.0.0",
-        "com.flexy.config": "2.0.0",
+        "com.flexy.utils": "1.5.0",
+        "com.flexy.config": "1.5.0",
         "com.cysharp.unitask": "2.2.5"
       },
-      "hash": "fcc8bcc86f9d79fe5b3dcc8eb536695091117d21"
+      "hash": "03027b6620fdf56e92b914c0553e8d6b610b7294"
     },
     "com.flexy.audio": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.audio.git",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.flexy.utils": "2.0.0",
+        "com.flexy.utils": "1.5.0",
         "com.flexy.tween": "1.0.1",
         "com.cysharp.unitask": "2.2.5"
       },
-      "hash": "e5ee5a50529f6f145692219b3702c26fcd46e8ff"
+      "hash": "dce65b3d0b8acc1b3797c09e695293484bbffb30"
     },
     "com.flexy.config": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.config.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "1b3d3c230473138547e44e7243a3aeabbb04518b"
+      "hash": "7af34590dd9807d03211001fcfe5ce5bb2f8c23e"
     },
     "com.flexy.tween": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.tween.git?path=/Packages/Main",
@@ -60,18 +60,18 @@
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.flexy.utils": "2.0.0",
+        "com.flexy.utils": "1.5.0",
         "com.flexy.tween": "1.0.1",
         "com.cysharp.unitask": "2.2.5"
       },
-      "hash": "b397d6a0a45b7dc8bd937df9b4e86f8cd81d3229"
+      "hash": "8f69710063ce08cfc1cfaa6cb11d1529bcc724ed"
     },
     "com.flexy.unity2asp": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.unity2asp.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a4526108e7328042988ee8353e88f4bed3e8a2d4"
+      "hash": "40e0acdc4ce95808562f9a7ee9956ff1865bf40c"
     },
     "com.flexy.utils": {
       "version": "https://bitbucket.daw.studio/scm/flexy/flexy.utils.git",
@@ -80,7 +80,7 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.0"
       },
-      "hash": "92bff2ca75d94550a7d793bec51595e776957170"
+      "hash": "8a6821a47391668fb16402a501c762c65b2b659c"
     },
     "com.google.android.appbundle": {
       "version": "file:com.google.android.appbundle@1.4.0",
